@@ -1,3 +1,3 @@
-module github.com/leguminosa/golang-convert/convert
+module github.com/leguminosa/golang-convert
 
 go 1.14
